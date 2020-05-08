@@ -1,0 +1,175 @@
+{
+  "settings": {
+    "name": "FreeMoney",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": []
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.6",
+    "siteFonts": [],
+    "uniqCompNum": 13,
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "images/bg2.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WELCOMETO THE&nbsp;<div>FREE MONEY<span style=\"color: inherit; font-family: inherit;\">PROJECT!</span></div>",
+          "text": "Make online money. With no cost. Just a few of your time.<br>All you have to do is to freely register to all of the following platforms.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header2",
+          "_anchor": "header2-9"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/gramfree-993x709.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gramfree-993x709-800x571.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/serfbux-fotor-1000x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/serfbux-fotor-1000x700-800x560.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/wintub-copy-2-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wintub-copy-2-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://s4.wintub.com/?r=939214\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/freemining-2-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/freemining-2-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/hero-banner-fotor-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/hero-banner-fotor-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://powerj.net/?ref=8jca-6b0p-ex7p\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/miner-sm-2-1000x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miner-sm-2-1000x700-800x560.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://btcfor.life/?i=4196\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/starclicks-fotor-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/starclicks-fotor-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.star-clicks.com/publishers?ref=50647751\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/adsclaimer-2-1000x700.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-2-1000x700-800x560.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.adsclaimer.com/index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-6",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/AntiSpamPolicy.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-7"
+        }
+      ]
+    }
+  }
+}
