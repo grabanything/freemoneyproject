@@ -388,7 +388,7 @@
             "overlayOpacity": "0.3"
           },
           "title": "IF YOU WANT TO BUILD<br>A WEBSITE LIKE THIS",
-          "text": "<br><br>You are able to do it for free. You may also keep your new website online without any fee.<br><br>Just follow my path and you will see the difference.<br><br>The free software that you have to download is called Mobirise and it works on Windows and Mac.<br><br><br><br>",
+          "text": "<br><br>You are able to do it for free. You may also keep your new website online without any fee.<br><br>Just follow my path and you will see the difference.<br><br>The free software that you have to download is called Mobirise and it works on Windows and Mac.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.exe?_ga=2.161391165.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.dmg?_ga=2.207422867.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -410,7 +410,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "paddingTop": 2,
+            "paddingTop": "4",
             "paddingBottom": "2",
             "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
