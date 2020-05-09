@@ -1,7 +1,47 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+#content5-j .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 48px;
+}
+#content5-j .mbr-header .mbr-header__subtext {
+  text-align: left;
+  color: #fff;
+}
+#content5-j .mbr-article {
+  color: #fff;
+}
+#content5-j .mbr-header .mbr-header__text DIV {
+  font-size: 48px;
+}
+#content5-j .mbr-header .mbr-header__subtext B {
+  font-size: 24px;
+}
+#msg-box2-i .mbr-header .mbr-header__text {
+  color: #efefef;
+  text-align: right;
+  font-size: 24px;
+  font-family: 'Montserrat', sans-serif;
+}
+#msg-box2-i .mbr-article {
+  color: #efefef;
+  text-align: center;
+}
+#msg-box2-i .mbr-header .mbr-header__text SPAN {
+  font-size: 36px;
+}
 #gallery1-6 SMALL {
   text-align: center;
   font-size: 24px;
 }
 #gallery1-6 B {
+  font-size: 24px;
+}
+#gallery1-e SMALL {
+  text-align: center;
+  font-size: 24px;
+}
+#gallery1-e B {
   font-size: 24px;
 }

@@ -6,12 +6,14 @@
       "name": "default",
       "title": "Mobirise",
       "styling": {},
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#03482b"
+      ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 13,
+    "uniqCompNum": 20,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -27,17 +29,114 @@
       },
       "components": [
         {
-          "_inherit": "header1",
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-size": "48px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__text DIV": {
+              "font-size": "48px"
+            },
+            ".mbr-header .mbr-header__subtext B": {
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "WELCOME TO MY&nbsp;<div>FREE MONEY PROJECT!</div>",
+          "text": "<p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "<b><br></b><br><b>A GOAL WITHOUT A PLAN ITS JUST A WISH!</b><br><br>Register freely to all the below platforms and work for a couple of hours daily.<br><br>In a matter of months you will see money in your account. Be patient. Be organized. Don't give up. Your future depends on this and you will have to think differently. Change your way of thinking. Change your life. It is not so hard. i did it and it works.<br>",
+          "_name": "content5",
+          "_anchor": "content5-j"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://youtu.be/fSjfKP2-B6g",
+              "autoplay": "on",
+              "loop": "on"
+            }
+          },
+          "text": "",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-g"
+        },
+        {
+          "_inherit": "msg-box1",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#efefef",
+              "text-align": "right",
+              "font-size": "24px",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".mbr-article": {
+              "color": "#efefef",
+              "text-align": "center"
+            },
+            ".mbr-header .mbr-header__text SPAN": {
+              "font-size": "36px"
+            }
+          },
           "_params": {
             "showTitle": true,
             "showText": true,
             "showButtons": false,
-            "showArrow": false,
-            "contentAlign": "center",
-            "bgImageRadio": true,
-            "bgImage": "images/bg2.jpg",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#4c6972",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -47,85 +146,84 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WELCOME TO THE&nbsp;<div>FREE MONEY&nbsp;<span style=\"color: inherit; font-family: inherit;\">PROJECT!</span></div>",
-          "text": "<br>Make online money without any cost. Just a few of your time.<br>All you have to do is to freely register to all of the following platforms.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "title": "To earn money with no investment, <br>register freely t0 the below platforms",
+          "text": "You will have to work a couple of hours daily and you will be rewarded after a couple of months",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">TRY FOR FREE</a>",
           "_tags": [
             "Theme"
           ],
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_name": "header2",
-          "_anchor": "header2-9"
+          "_name": "msg-box2",
+          "_anchor": "msg-box2-i"
         },
         {
           "_params": {
             "fullWidth": true,
             "paddingTop": "2",
-            "paddingBottom": "2",
+            "paddingBottom": "0",
             "noGutter": false,
             "showText": true,
             "showBullets": true,
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/gramfree-993x709.png",
-                "thumb": "@PROJECT_PATH@/assets/images/gramfree-993x709-800x571.png",
+                "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gramfree-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/serfbux-fotor-1000x700.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/serfbux-fotor-1000x700-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/serfbux-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/wintub-copy-2-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/wintub-copy-2-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/wintub-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wintub-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://s4.wintub.com/?r=939214\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/freemining-2-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/freemining-2-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/freemining-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/freemining-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/hero-banner-fotor-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/hero-banner-fotor-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/powerj-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/powerj-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://powerj.net/?ref=8jca-6b0p-ex7p\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/miner-sm-2-1000x700.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/miner-sm-2-1000x700-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/btcforlife-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/btcforlife-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://btcfor.life/?i=4196\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/starclicks-fotor-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/starclicks-fotor-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/starclicks-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/starclicks-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://www.star-clicks.com/publishers?ref=50647751\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/adsclaimer-2-1000x700.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-2-1000x700-800x560.jpg",
+                "image": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://www.adsclaimer.com/index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
@@ -151,8 +249,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "2",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -162,12 +260,104 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/AntiSpamPolicy.html\" target=\"_blank\">Terms of Use</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
           "_anchor": "footer1-7"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dualmine-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dualmine-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://dualmine.com/?ref=182346\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/gpumining-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gpumining-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"http://www.bitcoingpumining.com/3629925008\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ytverts-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ytverts-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://ytverts.com/?ref=64126\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bestchange-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bestchange-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.bestchange.com/bitcoin-to-ethereum.html?p=1063116\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ernsurf-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ernsurf-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"http://www.ernsurf.xyz/?ref=11086\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/minercoin-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/minercoin-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://miner-co.in/?ref_id=2864\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/surfebe-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/surfebe-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://surfe.be/177904\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://clicksgenie.com/default.aspx?u=83253\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-e"
         }
       ]
     }
