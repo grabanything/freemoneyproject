@@ -427,7 +427,7 @@
           },
           "title": "FREE HOSTING",
           "text": "GitHub is a free hosting open source development platform that is linked with Mobirise and allows you to publish directly your website.<br><br>All you have to do is to sign up for a new account, but remember that is very important the name of your account which must be whatever name you like to use for your new website.<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET FREE HOSTING</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://github.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET FREE HOSTING</a>",
           "_tags": [
             "Theme"
           ],
