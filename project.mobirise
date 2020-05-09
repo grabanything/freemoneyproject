@@ -399,7 +399,8 @@
         {
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-size": "48px"
             },
             ".mbr-article": {
               "color": "#fff"
@@ -410,21 +411,21 @@
             "showText": true,
             "showButtons": true,
             "paddingTop": 2,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
+            "paddingBottom": "2",
+            "bgImageRadio": true,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#454241",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "overlay": false,
+            "overlay": true,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.3"
           },
-          "title": "HOSTING FOR FREE",
+          "title": "FREE HOSTING",
           "text": "GitHub is a free hosting open source development platform that is linked with Mobirise and allows you to publish directly your website.<br><br>All you have to do is to sign up for a new account, but remember that is very important the name of your account which must be whatever name you like to use for your new website.<br>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET FREE HOSTING</a>",
           "_tags": [
