@@ -38,10 +38,19 @@
 #gallery1-6 B {
   font-size: 24px;
 }
+#footer1-7 P {
+  color: #f4eaea;
+}
 #gallery1-e SMALL {
   text-align: center;
   font-size: 24px;
 }
 #gallery1-e B {
   font-size: 24px;
+}
+#msg-box1-m .mbr-header .mbr-header__text {
+  color: #fff;
+}
+#msg-box1-m .mbr-article {
+  color: #fff;
 }

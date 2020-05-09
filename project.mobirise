@@ -7,13 +7,15 @@
       "title": "Mobirise",
       "styling": {},
       "additionalSetColors": [
-        "#03482b"
+        "#03482b",
+        "#454241",
+        "#f4eaea"
       ]
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 20,
+    "uniqCompNum": 23,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -265,7 +267,12 @@
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-7"
+          "_anchor": "footer1-7",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          }
         },
         {
           "_params": {
@@ -358,6 +365,73 @@
             }
           },
           "_anchor": "gallery1-e"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "images/bg5.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.3"
+          },
+          "title": "IF YOU WANT TO BUILD<br>A WEBSITE LIKE THIS",
+          "text": "<br><br>You are able to do it for free. You may also keep your new website online without any fee.<br><br>Just follow my path and you will see the difference.<br><br>The free software that you have to download is called Mobirise and it works on Windows and Mac.<br><br><br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.exe?_ga=2.161391165.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.dmg?_ga=2.207422867.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR MAC</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-k"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "paddingTop": 2,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#454241",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "HOSTING FOR FREE",
+          "text": "GitHub is a free hosting open source development platform that is linked with Mobirise and allows you to publish directly your website.<br><br>All you have to do is to sign up for a new account, but remember that is very important the name of your account which must be whatever name you like to use for your new website.<br>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GET FREE HOSTING</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box1",
+          "_anchor": "msg-box1-m"
         }
       ]
     }
