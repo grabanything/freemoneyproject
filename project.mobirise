@@ -212,7 +212,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/btcforlife-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
-                "caption": "<b><a href=\"https://btcfor.life/?i=4196\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
@@ -298,7 +298,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://ronex.io/?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ytverts-1000x700.png",
@@ -317,12 +317,12 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/ernsurf-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ernsurf-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
-                "caption": "<b><a href=\"http://www.ernsurf.xyz/?ref=11086\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
+                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/minercoin-1000x700.png",
