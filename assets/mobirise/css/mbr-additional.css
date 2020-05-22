@@ -1,5 +1,3 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-
 #content5-j .mbr-header .mbr-header__text {
   text-align: center;
   color: #110a2e;
@@ -7,7 +5,7 @@
 }
 #content5-j .mbr-header .mbr-header__subtext {
   text-align: left;
-  color: #efefef;
+  color: #c1c1c1;
   font-size: 20px;
 }
 #content5-j .mbr-article {
@@ -19,29 +17,8 @@
 #content5-j .mbr-header .mbr-header__subtext B {
   font-size: 32px;
 }
-#msg-box2-i .mbr-header .mbr-header__text {
-  color: #000000;
-  text-align: center;
-  font-size: 25px;
-  font-family: 'Montserrat', sans-serif;
-}
-#msg-box2-i .mbr-article {
-  color: #000000;
-  text-align: center;
-  font-size: 24px;
-}
-#msg-box2-i .mbr-header .mbr-header__text SPAN {
-  font-size: 36px;
-}
 #footer1-7 P {
   color: #f4eaea;
-}
-#msg-box1-m .mbr-header .mbr-header__text {
-  color: #fff;
-  font-size: 48px;
-}
-#msg-box1-m .mbr-article {
-  color: #fff;
 }
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;

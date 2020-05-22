@@ -42,7 +42,7 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "left",
-              "color": "#efefef",
+              "color": "#c1c1c1",
               "font-size": "20px"
             },
             ".mbr-article": {
@@ -57,12 +57,12 @@
           },
           "_params": {
             "showTitle": true,
-            "showMeta": false,
+            "showMeta": true,
             "showCaption": "noCaption",
-            "showText": false,
+            "showText": true,
             "showButton": false,
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "2",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -83,56 +83,9 @@
           "_tags": [
             "Theme"
           ],
-          "meta": "<b><br></b><br><b>A GOAL WITHOUT A PLAN ITS JUST A WISH!<br></b><br>Register freely to all the below platforms and work for a couple of hours daily.<br><br>In a matter of months you will see money in your account. Be patient. Be organized. Don't give up. Your future depends on this and you will have to think differently. Change your way of thinking. Change your life. It is not so hard. I did it and it works.<br>",
+          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -<br></b><br>To earn money with no investment, register freely to the below platforms.<br><br>You will have to work a couple of hours daily and you will be rewarded after a couple of months<br>",
           "_name": "content5",
           "_anchor": "content5-j"
-        },
-        {
-          "_inherit": "msg-box1",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "25px",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-article": {
-              "color": "#000000",
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            ".mbr-header .mbr-header__text SPAN": {
-              "font-size": "36px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": "1",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "To earn money with no investment, <br>register freely to the below platforms",
-          "text": "You will have to work a couple of hours daily and you will be rewarded after a couple of months",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://grabanything.github.io/easymoney/page3.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE TRAFFIC FOR YOU!</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-i"
         },
         {
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE MINING PLATFORMS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE PTC (PayToClick)</a>",
@@ -166,74 +119,6 @@
               "color": "#f4eaea"
             }
           }
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "showArrow": false,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
-          },
-          "title": "IF YOU WANT TO BUILD<br>A WEBSITE LIKE THIS",
-          "text": "<br><br>You are able to do it for free. You may also keep your new website online without any fee.<br><br>Just follow my path and you will see the difference.<br><br>The free software that you have to download is called Mobirise and it works on Windows and Mac.<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.exe?_ga=2.161391165.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"http://download.mobirise.com/MobiriseSetup.dmg?_ga=2.207422867.1644625184.1589038467-952979719.1589038467\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">DOWNLOAD FOR MAC</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header1",
-          "_anchor": "header1-k"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "color": "#fff",
-              "font-size": "48px"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "paddingTop": "4",
-            "paddingBottom": "2",
-            "bgImageRadio": true,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#454241",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": "0.3"
-          },
-          "title": "FREE HOSTING",
-          "text": "GitHub is a free hosting open source development platform that is linked with Mobirise and allows you to publish directly your website.<br><br>All you have to do is to sign up for a new account, but remember that is very important the name of your account which must be whatever name you like to use for your new website.<br>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://github.com/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">GET FREE HOSTING</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-m"
         }
       ]
     },
