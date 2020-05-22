@@ -42,7 +42,7 @@
             },
             ".mbr-header .mbr-header__subtext": {
               "text-align": "left",
-              "color": "#c1c1c1",
+              "color": "#000000",
               "font-size": "20px"
             },
             ".mbr-article": {
@@ -61,8 +61,8 @@
             "showCaption": "noCaption",
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -83,7 +83,7 @@
           "_tags": [
             "Theme"
           ],
-          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -<br></b><br>To earn money with no investment, register freely to the below platforms.<br><br>You will have to work a couple of hours daily and you will be rewarded after a couple of months<br>",
+          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -<br></b><br><span style=\"font-style: normal;\">To earn money with no investment, register freely to the below platforms.<br><br>You will have to work a couple of hours daily and you will be rewarded after a couple of months.</span><br><br><b>THIS IS VERY IMPORTANT!</b><br><br>After you signed up to all websites from the above tabel, look for Affiliate Sign up links inside each of your account.<br><br>When you will make your own website like this one on Mobirise, all you have to do is to copy your affiliate links from each website where you signed up above and paste it inside this tabel.<br>",
           "_name": "content5",
           "_anchor": "content5-j"
         },
