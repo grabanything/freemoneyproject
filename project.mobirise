@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 23,
+    "uniqCompNum": 40,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -25,7 +25,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "FreeMoneyProject",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
@@ -37,7 +37,7 @@
           "_styles": {
             ".mbr-header .mbr-header__text": {
               "text-align": "center",
-              "color": "#fff",
+              "color": "#110a2e",
               "font-size": "48px"
             },
             ".mbr-header .mbr-header__subtext": {
@@ -67,7 +67,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -91,16 +91,16 @@
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
-              "color": "#efefef",
+              "color": "#000000",
               "text-align": "center",
               "font-size": "25px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-article": {
-              "color": "#efefef",
+              "color": "#000000",
               "text-align": "center",
-              "font-size": "20px"
+              "font-size": "24px"
             },
             ".mbr-header .mbr-header__text SPAN": {
               "font-size": "36px"
@@ -116,7 +116,7 @@
             "bgImage": "images/bg3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -135,96 +135,12 @@
           "_anchor": "msg-box2-i"
         },
         {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/gramfree-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/serfbux-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/wintub-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/wintub-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://s4.wintub.com/?r=939214\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/freemining-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/freemining-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/powerj-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/powerj-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://powerj.net/?ref=8jca-6b0p-ex7p\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/btcforlife-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/btcforlife-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/starclicks-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/starclicks-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.star-clicks.com/publishers?ref=50647751\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.adsclaimer.com/index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE MINING PLATFORMS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE PTC (PayToClick)</a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-6",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          }
+          "_name": "buttons1",
+          "_anchor": "buttons1-13"
         },
         {
           "_params": {
@@ -250,98 +166,6 @@
               "color": "#f4eaea"
             }
           }
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/dualmine-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/dualmine-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<a href=\"https://dualmine.com/?ref=182346\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ronex-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ronex-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://ronex.io/?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/ytverts-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ytverts-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://ytverts.com/?ref=64126\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.bestchange.com/bitcoin-to-ethereum.html?p=1063116\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/surfebe-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/surfebe-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://surfe.be/177904\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://clicksgenie.com/default.aspx?u=83253\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "gallery1-e"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -410,6 +234,414 @@
           ],
           "_name": "msg-box1",
           "_anchor": "msg-box1-m"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Generator Description",
+        "title": "PayToClick",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#f4eaea"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "font-size": "24px",
+              "text-align": "center"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE PAY TO CLICK (PTC) PLATFORMS<br><br>",
+          "meta": "<b>Take your time and sign up freely to all these platforms</b><br><b>All you have to do is to enter daily and click on all the ads</b>",
+          "text": "<p><b>DO NOT GIVE UP!</b></p><p><b>TIME IS MONEY.</b></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Go Back</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-w"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-s"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/gramfree-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/serfbux-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/wintub-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/wintub-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://s4.wintub.com/?r=939214\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/starclicks-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/starclicks-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.star-clicks.com/publishers?ref=50647751\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-u"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "3",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/ytverts-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ytverts-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://ytverts.com/?ref=64126\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/surfebe-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/surfebe-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://surfe.be/177904\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://clicksgenie.com/default.aspx?u=83253\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.adsclaimer.com/index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-v"
+        }
+      ]
+    },
+    "page2.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Mining",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE MINING PLATFORMS<div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Sign up freely to all the platforms and begin mining. The best to mine are LTC and ETH, not BTC.</p><p><br></p><p>All you have to do is to enter once a day or after a couple of days and click on the REINVEST button.</p><p><br></p><p>This way, you will use compounding and thus, in time, your balance amount will raise.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go Back</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-12"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-t"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/freemining-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/freemining-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/powerj-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/powerj-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://powerj.net/?ref=8jca-6b0p-ex7p\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/btcforlife-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/btcforlife-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-z"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/dualmine-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/dualmine-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<a href=\"https://dualmine.com/?ref=182346\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ronex-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/ronex-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://ronex.io/?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.bestchange.com/bitcoin-to-ethereum.html?p=1063116\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-10"
         }
       ]
     }
