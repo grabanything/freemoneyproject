@@ -424,15 +424,15 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
+                "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/powerj-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/powerj-1000x700-800x560.png",
+                "image": "@PROJECT_PATH@/assets/images/bitshark-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bitshark-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://powerj.net/?ref=8jca-6b0p-ex7p\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/btcforlife-1000x700.png",
