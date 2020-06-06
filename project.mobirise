@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -215,6 +215,14 @@
             "bgColor": "#4c6972",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/slevideon-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/slevideon-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://slevideon.pw/144614402204752/\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
                 "thumb": "@PROJECT_PATH@/assets/images/gramfree-1000x700-800x560.png",
                 "alt": "",
@@ -228,14 +236,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/starclicks-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/starclicks-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.star-clicks.com/publishers?ref=50647751\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
@@ -385,6 +385,58 @@
         },
         {
           "_params": {
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/startminer-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/startminer-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.startminer.com/2359962\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://mastercoin.top/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-10"
+        },
+        {
+          "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgImageRadio": false,
@@ -459,58 +511,6 @@
             }
           },
           "_anchor": "gallery1-z"
-        },
-        {
-          "_params": {
-            "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://mastercoin.top/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/startminer-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/startminer-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.startminer.com/2359962\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "gallery1-10"
         }
       ]
     }
