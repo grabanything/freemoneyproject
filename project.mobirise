@@ -433,6 +433,14 @@
                 "title": "",
                 "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/indigocoin.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/indigocoin.gif",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://indigocoin.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
               }
             ]
           },
@@ -477,6 +485,14 @@
                 "title": "",
                 "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/startminer-leaderboard-256.gif",
+                "thumb": "@PROJECT_PATH@/assets/images/startminer-leaderboard-256.gif",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://www.startminer.com/2359962\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
               }
             ]
           },
