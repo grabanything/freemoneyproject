@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -83,7 +83,7 @@
           "_tags": [
             "Theme"
           ],
-          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -</b><br><br><b>VERY IMPORTANT!</b><br><br>I begun with this <a href=\"https://www.startminer.com/2359962\" target=\"_blank\">mining platform</a> that gave me 0.0006 BTC daily and I was allowed to withdraw after 9 days the amount of 0.0054 BTC (around $52).<br><br>I took $10 and paid for 100 referrals to be able to withdraw money from this <a href=\"https://slevideon.pw/144614402204752/\" target=\"_blank\">platform</a>. Now, I earn between $300 and $450 daily and I am very happy.<br><br>You may take this path but after you will make some money, register to all of these platforms I found and I show you below because you will be able to invest there and by the way, mining with an investment is a great choise for anyone to make a real passive income.<br><br>GOOD LUCK!",
+          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -</b><br><br><b>VERY IMPORTANT!</b><br><br><br>You may register to all of these platforms I found and I show you below because you will be able to invest there and by the way, mining with an investment is a great choise for anyone to make a real passive income.<br><br>GOOD LUCK!",
           "_name": "content5",
           "_anchor": "content5-j"
         },
@@ -215,12 +215,20 @@
             "bgColor": "#4c6972",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/serfbux-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/slevideon-1000x700.png",
                 "thumb": "@PROJECT_PATH@/assets/images/slevideon-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://slevideon.pw/144614402204752/\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
@@ -228,14 +236,6 @@
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/serfbux-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
@@ -394,20 +394,12 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/startminer-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/startminer-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.startminer.com/2359962\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              },
-              {
                 "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
                 "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://mastercoin.top/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
+                "active": true
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
