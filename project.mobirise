@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 40,
+    "uniqCompNum": 42,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -83,7 +83,7 @@
           "_tags": [
             "Theme"
           ],
-          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -</b><br><br><b>VERY IMPORTANT!</b><br><br>I found a few platforms that doesn't ask you to pay anything. All you have to do is to register freely and sign in every hour or so to earn free bonuses or to click on ads. Everything is free.<br><br>After you will make some money and you will withdraw them, you will be able to invest for real on every platform from below. So, all you need is patience and determination.<br><br>Can you do this?<br><br>As for the withdrawals and how can you transfer money to your own accounts, I use two great platforms I use them to make payments and withdraw money.<br><br>One is <a href=\"https://payeer.com/010013072\" target=\"_blank\">PAYEER</a> and the other is <a href=\"https://wirexapp.com/r/grabanything\" target=\"_blank\">WIREX</a>. Both are extremely reliable and you are able to link your personal VISA or MASTERCARD to each of them and also to withdraw on your own bank account. Both have Android and IPhone apps that are very easy to use.<br><br><a href=\"https://payeer.com/010013072\" target=\"_blank\">PAYEER</a>&nbsp;allows you to trade between cryptos and FIAT right inside your account, with very small amounts. It also has very low fees for deposits from your personal card and payments take just a few seconds between two Payeer accounts.<br><br><a href=\"https://wirexapp.com/r/grabanything\" target=\"_blank\">WIREX</a> is allowing you to ask for a free Mastercard and take your money from any ATM in the world, for a $5 fee for each withdrawal. It has huge fees for paying BTC, over $1. So, I use this ONLY to withdraw cash from any ATM.<br><br>I also use <a href=\"https://www.coinbase.com/join/graban_6\" target=\"_blank\">COINBASE</a> because it has the lowest fees when you transfer BTC, but is asking between $1 and $1.5 when you deposit from your card. You may open a free account and use it to withdraw BTC there and pay to other platforms, without depositing from your own card.<br><br>Do not give up and do your daily and hourly tasks! <br>You will earn a lot in a few months.<br><br>",
+          "meta": "<b><br></b><br><b>- A GOAL WITHOUT A PLAN ITS JUST A WISH -</b><br><br><b>VERY IMPORTANT!</b><br><br>I found a few platforms that doesn't ask you to pay anything. All you have to do is to register freely and sign in every hour or so to earn free bonuses or to click on ads. Everything is free.<br><br>After you will make some money and you will withdraw them, you will be able to invest for real on every platform from below. So, all you need is patience and determination.<br><br>Can you do this?<br><br><br><br>As for how you may transfer money to your own accounts, I use three great platforms to make payments and withdraw money.<br><br>First is <a href=\"https://payeer.com/010013072\" target=\"_blank\">PAYEER</a>&nbsp;that allows you to trade between cryptos and FIAT right inside your account, with very small amounts. It also has very low fees for deposits from your personal card and payments take just a few seconds between two Payeer accounts but it has huge feew for sending BTC, so take care.<br><br>Secondly,&nbsp;<a href=\"https://wirexapp.com/r/grabanything\" target=\"_blank\">WIREX</a> is allowing you to ask for a free Mastercard and take your money from any ATM in the world, for a $5 fee for each withdrawal. It has huge fees for paying BTC, over $1. So, I use this ONLY to withdraw cash from any ATM.<br><br>The third is&nbsp;<a href=\"https://www.coinbase.com/join/graban_6\" target=\"_blank\">COINBASE</a> because it has the lowest fees when you transfer BTC, but is asking between $1 and $1.5 when you deposit from your card. You may open a free account and use it to withdraw BTC there and pay to other platforms, without depositing from your own card.<br><br>All of them are extremely reliable and you are able to link your personal VISA or MASTERCARD to each of them and also to withdraw on your own bank account. Both have Android and IPhone apps that are very easy to use.<br><br>Do not give up and do your daily and hourly tasks! <br>You will earn a lot in a few months.<br><br>",
           "_name": "content5",
           "_anchor": "content5-j"
         },
@@ -108,7 +108,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -119,6 +119,56 @@
               "color": "#f4eaea"
             }
           }
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15"
         }
       ]
     },
@@ -192,7 +242,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -323,6 +373,56 @@
             }
           },
           "_anchor": "gallery1-v"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15"
         }
       ]
     },
@@ -440,7 +540,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.6"
           },
-          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:tiberiugrabany@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
           "_tags": [
             "Theme"
           ],
@@ -503,6 +603,56 @@
             }
           },
           "_anchor": "gallery1-z"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">DOWNLOAD</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"index.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15"
         }
       ]
     }
