@@ -1,4 +1,6 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 #content5-j .mbr-header .mbr-header__text {
   text-align: center;
   color: #110a2e;
@@ -33,6 +35,11 @@
 #ext_menu-15 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-15 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 #msg-box3-w .mbr-header .mbr-header__text {
   text-align: center;
   color: #f4eaea;
@@ -77,6 +84,11 @@
 #ext_menu-15 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-15 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 #msg-box3-12 .mbr-header .mbr-header__text {
   text-align: center;
   color: #ffffff;
@@ -121,6 +133,11 @@
 #ext_menu-15 .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#ext_menu-15 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+
 
 #header3-21 H3 {
   font-size: 46px;
@@ -144,6 +161,10 @@
 }
 #ext_menu-17 .mbr-navbar__hamburger {
   color: #ffffff;
+}
+#ext_menu-17 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
 }
 #msg-box4-18 .mbr-header__text {
   color: #2969b0;
