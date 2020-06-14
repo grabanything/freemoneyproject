@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 74,
+    "uniqCompNum": 75,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -705,6 +705,74 @@
           }
         },
         {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1signupaday2.1-378x369.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "One Signup A Day<br><br>I please you to download it freely and read it.",
+          "text": "<p><a href=\"https://www.leadsleap.com/1signupaday/?r=grabany\" target=\"_blank\">https://www.leadsleap.com/1signupaday/?r=grabany</a></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2969b0"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#7c706b"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-22"
+        },
+        {
           "_params": {
             "paddingTop": "3",
             "paddingBottom": "3",
@@ -879,7 +947,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -895,8 +962,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -947,7 +1018,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -963,8 +1033,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1015,7 +1089,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1031,8 +1104,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1083,7 +1160,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1099,8 +1175,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1151,7 +1231,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1167,8 +1246,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1219,7 +1302,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1235,8 +1317,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1287,7 +1373,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1303,8 +1388,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1355,7 +1444,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1371,8 +1459,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1423,7 +1515,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1439,8 +1530,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1491,7 +1586,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1507,8 +1601,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1559,7 +1657,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1575,8 +1672,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1627,7 +1728,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1643,8 +1743,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1695,7 +1799,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1711,8 +1814,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1763,7 +1870,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1779,8 +1885,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1831,7 +1941,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1847,8 +1956,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1899,7 +2012,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1915,8 +2027,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1967,7 +2083,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -1984,8 +2099,8 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "linkInNewWindow": false,
-              "name": "users",
-              "family": "Mobirise2",
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
               "size": 0,
               "active": true
@@ -2039,7 +2154,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2055,8 +2169,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2107,7 +2225,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2123,8 +2240,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2175,7 +2296,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2191,8 +2311,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2243,7 +2367,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2259,8 +2382,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2311,7 +2438,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2327,8 +2453,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2379,7 +2509,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2395,8 +2524,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2447,7 +2580,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2463,8 +2595,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2515,7 +2651,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2531,8 +2666,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2583,7 +2722,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2599,8 +2737,12 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "linkInNewWindow": false,
+              "name": "preview",
+              "family": "MobiriseIcons",
               "link": "",
-              "size": 0
+              "size": 0,
+              "active": true
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2651,7 +2793,6 @@
           },
           "media": {
             "image": {
-              "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
@@ -2668,7 +2809,7 @@
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box4",
               "linkInNewWindow": false,
-              "name": "hearth",
+              "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
               "size": 0,

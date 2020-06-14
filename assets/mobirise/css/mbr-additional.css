@@ -147,6 +147,15 @@
 #header3-21 P {
   font-size: 25px;
 }
+#msg-box4-22 .mbr-header__text {
+  color: #2969b0;
+}
+#msg-box4-22 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-22 .mbr-article {
+  color: #7c706b;
+}
 #footer1-16 P {
   color: #f4eaea;
 }
