@@ -506,6 +506,14 @@
             "bgColor": "#4c6972",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/freemining2-1000x700.png",
                 "thumb": "@PROJECT_PATH@/assets/images/freemining2-1000x700-800x560.png",
                 "alt": "",
@@ -571,50 +579,6 @@
             }
           },
           "_anchor": "footer1-t"
-        },
-        {
-          "_params": {
-            "fullWidth": true,
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/mininglabs-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mininglabs-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "gallery1-z"
         },
         {
           "_inherit": "menu",
