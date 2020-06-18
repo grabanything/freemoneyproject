@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page2.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -284,7 +284,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"page3.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/gramfree-1000x700.png",
@@ -292,15 +292,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "<a href=\"https://grabanything.github.io/gramfree.html\" target=\"_blank\" class=\"text-gray\"><b>CLICK HERE!</b></a>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/spotverts-125x125.png",
-                "thumb": "@PROJECT_PATH@/assets/images/spotverts-125x125-125x125.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.spotverts.com//index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
+                "active": true
               }
             ]
           },
