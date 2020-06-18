@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page3.html",
+    "currentPage": "page2.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -506,6 +506,14 @@
             "bgColor": "#4c6972",
             "images": [
               {
+                "image": "@PROJECT_PATH@/assets/images/freemining2-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/freemining2-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
                 "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
                 "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
                 "alt": "",
@@ -580,7 +588,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
+                "active": false
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
@@ -588,15 +596,7 @@
                 "alt": "",
                 "title": "",
                 "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/indigocoin.gif",
-                "thumb": "@PROJECT_PATH@/assets/images/indigocoin.gif",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://indigocoin.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
+                "active": true
               }
             ]
           },
