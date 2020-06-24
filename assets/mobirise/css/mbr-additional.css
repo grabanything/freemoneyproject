@@ -420,3 +420,26 @@
 #msg-box4-20 .mbr-article {
   color: #0a2e14;
 }
+
+#footer1-23 P {
+  color: #f4eaea;
+}
+#ext_menu-24 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-24.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-24 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-24 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-24 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
+#header1-25 H1 {
+  color: #ffffff;
+}
