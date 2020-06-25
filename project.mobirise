@@ -905,10 +905,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.04.28-pm-636x282.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -922,8 +923,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -976,10 +976,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/leadsleap-reviews-640x386.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -993,8 +994,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1047,10 +1047,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/paid-to-click-ads-leadsleap-640x327.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1064,8 +1065,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1118,10 +1118,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/daily-active-bonus-get-cash-640x344.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1135,8 +1136,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1189,10 +1189,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/earn-money-online-leadsleap-640x318.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1206,8 +1207,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1260,10 +1260,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/how-to-earn-money-from-home.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1277,8 +1278,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1331,10 +1331,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/how-to-earn-money-from-home-leadsleap-640x371.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1348,8 +1349,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1402,10 +1402,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/ideas-to-make-money-leadsleap-640x285.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1419,8 +1420,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1473,10 +1473,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/blogger-seo-traffic-leadsleap-640x275.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1490,8 +1491,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1544,10 +1544,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/creative-ways-to-make-money-leadsleap-320x191.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1561,8 +1562,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1615,10 +1615,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/how-does-pay-per-click-work-leadsleap-640x250.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1632,8 +1633,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1686,10 +1686,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/blogger-html-leadsleap-640x149.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1703,8 +1704,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1757,10 +1757,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/affiliate-marketing-for-beginners-leadsleap-640x303.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1774,8 +1775,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1828,10 +1828,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/lead-generation-tools-leadsleap-640x384.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1845,8 +1846,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1899,10 +1899,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/lead-generation-business-640x373.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1916,8 +1917,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -1970,10 +1970,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/lead-generation-strategies-leadsleap-640x320.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -1987,8 +1988,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2041,10 +2041,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/affilate-link-tracker-leadsleap.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2058,8 +2059,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2112,10 +2112,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/bitly-link-tracker-leadsleap.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2129,8 +2130,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2183,10 +2183,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/daily-unique-visitors-leadsleap-640x342.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2200,8 +2201,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2254,10 +2254,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/how-to-do-digital-marketing-leadsleap.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2271,8 +2272,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2325,10 +2325,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/how-to-increase-organic-traffic-leadsleap-640x295.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2342,8 +2343,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2396,10 +2396,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/daily-unique-visitors-leadsleap-640x342.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2413,8 +2414,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2467,10 +2467,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/google-analytics-unique-user-leadsleap-640x248.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2484,8 +2485,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2538,10 +2538,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/drive-organic-traffic-to-your-website-leadsleap-1-640x166.jpg",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2555,8 +2556,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2609,10 +2609,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/best-pop-up-tools-leadsleap.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2626,8 +2627,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2683,7 +2683,8 @@
               "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2697,8 +2698,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
@@ -2751,10 +2751,11 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/list-builder-maker-leadsleap.gif",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.04.28-pm-636x282.png",
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -2768,8 +2769,7 @@
               "name": "preview",
               "family": "MobiriseIcons",
               "link": "",
-              "size": 0,
-              "active": true
+              "size": 0
             }
           },
           "title": "Leadsleap - Make Money Online $1-$100 Daily And Get Free Referrals",
