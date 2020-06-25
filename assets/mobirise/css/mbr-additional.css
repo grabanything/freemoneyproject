@@ -443,3 +443,23 @@
 #header1-25 H1 {
   color: #ffffff;
 }
+
+#footer1-26 P {
+  color: #f4eaea;
+}
+#ext_menu-27 .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-27.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-27 .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-27 .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-27 .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}

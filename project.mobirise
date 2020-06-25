@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 78,
+    "uniqCompNum": 81,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -132,7 +132,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -182,7 +182,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "PayToClick",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -384,7 +384,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -434,7 +434,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Mining",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -584,7 +584,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -634,7 +634,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "LeadsLeap",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -765,7 +765,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -944,7 +944,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-19"
         },
@@ -1228,7 +1228,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1e"
         },
@@ -1370,7 +1370,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1g"
         },
@@ -1725,7 +1725,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1l"
         },
@@ -2009,7 +2009,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1p"
         },
@@ -2293,7 +2293,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1t"
         },
@@ -2506,7 +2506,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1w"
         },
@@ -2577,7 +2577,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1x"
         },
@@ -2648,7 +2648,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/popupxpert/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/popupxpert/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1y"
         },
@@ -2719,7 +2719,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-1z"
         },
@@ -2790,7 +2790,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER NOW</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-20"
         }
@@ -2800,7 +2800,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "PassiveIncome",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2840,7 +2840,7 @@
             "color": "#2c2c2c",
             "hamburgerColor": "#ffffff"
           },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabany\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -2918,6 +2918,120 @@
               "color": "#ffffff"
             }
           }
+        }
+      ]
+    },
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Banner",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-26"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.44.55-pm-180x46.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-27"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-28"
         }
       ]
     }
