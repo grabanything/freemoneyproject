@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "PassiveIncome.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -88,7 +88,7 @@
           "_anchor": "content5-j"
         },
         {
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE MINING PLATFORMS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE PTC (PayToClick)</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"Mining.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE MINING PLATFORMS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"PayToClick.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">FREE PTC (PayToClick)</a>",
           "_tags": [
             "Theme"
           ],
