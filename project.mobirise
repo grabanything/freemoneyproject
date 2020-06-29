@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "Mining.html",
+    "currentPage": "PassiveIncome.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -923,7 +923,7 @@
           },
           "title": "WOULD YOU LIKE TO KNOW A FREE WAY TO EARN MONEY ONLINE?",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://grabanything.github.io/passiveincome/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YES<br>I want to know the secret!</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://grabanything.github.io/easymoney/page.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NO<br>I am not interested.<br></a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YES<br>I want to know the secret!</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://grabanything.github.io/easymoney/page.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NO<br>I am not interested.<br></a>",
           "_tags": [
             "Theme"
           ],
