@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page3.html",
+    "currentPage": "Mining.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 81,
+    "uniqCompNum": 97,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -178,11 +178,453 @@
         }
       ]
     },
-    "page1.html": {
+    "page5.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Banner",
+        "order": 5
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-26"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.44.55-pm-180x46.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-27"
+        },
+        {
+          "_params": {
+            "showText": true,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-28"
+        }
+      ]
+    },
+    "PaymentProofs.html": {
+      "settings": {
+        "meta_descr": "Website Generator Description",
+        "title": "SerfBux Proofs",
+        "order": 3
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-2f"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.44.55-pm-180x46.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2g"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.17-am-447x305.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.17-am-447x305-447x305.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-1.05.14-pm-444x358.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-1.05.14-pm-444x358-444x358.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-12.50.08-pm-446x357.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-12.50.08-pm-446x357-446x357.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-12.51.13-pm-449x356.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-06-at-12.51.13-pm-449x356-449x356.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.00.35-am-449x308.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.00.35-am-449x308-449x308.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.29-am-450x310.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.29-am-450x310-450x310.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.42-am-447x307.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.42-am-447x307-447x307.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.17-am-447x305.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.01.17-am-447x305-447x305.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2h"
+        }
+      ]
+    },
+    "SerfBux.html": {
+      "settings": {
+        "meta_descr": "Site Builder Description",
+        "title": "Serfbux",
+        "order": 4
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-29"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.44.55-pm-180x46.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2a"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "SERFBUX PLATFORM",
+          "text": "<p>This is a PTC (Pay To Click) platform that paid me daily in my Payeer RBL wallet. </p><p>The minimum withdrawal amount is 10 RBL meaning less than 0.01 USD ($1 is around 77 RBL and 1 RBL is around $0.013).</p><p>I already told you on my first page everything about Payeer, Wirex and Coinbase. Just click on the <a href=\"index.html\" target=\"_blank\"><b>ABOUT</b></a> link from the menu and freely register to all these platforms.</p><p>Now, let me show you some of my <a href=\"PaymentProofs.html\" target=\"_blank\"><b>PAYMENT PROOFS</b></a>.</p><p>The bad part is they don't allow you to replenish more than 13,000 RBL so all you may earn is around $0.2 daily, meaning around $6 a month, but they do pay and I could talk with them by email.</p><p><br></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://serfbux.com/?i=19774\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE!</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2e"
+        }
+      ]
+    },
+    "PayToClick.html": {
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "PayToClick",
-        "order": 5
+        "order": 9
       },
       "components": [
         {
@@ -275,7 +717,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/serfbux-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
-                "caption": "<b><a href=\"https://serfbux.com/?i=19774\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "caption": "<b><a href=\"SerfBux.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
@@ -313,66 +755,6 @@
           "_anchor": "gallery1-u"
         },
         {
-          "_params": {
-            "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": "3",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/ytverts-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/ytverts-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://ytverts.com/?ref=64126\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/surfebe-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/surfebe-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://surfe.be/177904\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/clicksgenie-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://clicksgenie.com/default.aspx?u=83253\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/adsclaimer-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://www.adsclaimer.com/index.php?ref=grabanything\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "gallery1-v"
-        },
-        {
           "_inherit": "menu",
           "_params": {
             "logo": true,
@@ -430,123 +812,13 @@
         }
       ]
     },
-    "page2.html": {
+    "PassiveIncome.html": {
       "settings": {
-        "meta_descr": "Web Page Builder Description",
-        "title": "Mining",
-        "order": 4
+        "meta_descr": "Site Builder Description",
+        "title": "PassiveIncome",
+        "order": 6
       },
       "components": [
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center",
-              "color": "#ffffff",
-              "font-size": "46px"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            },
-            ".mbr-article": {
-              "color": "#ffffff"
-            },
-            ".mbr-article P": {
-              "text-align": "center",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showCaption": "noCaption",
-            "showText": true,
-            "showButton": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#4c6972",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "darkBackground": false,
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "FREE MINING PLATFORMS<div><br></div>",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Sign up freely to all the platforms and begin mining. The best to mine are LTC and ETH, not BTC.</p><p><br></p><p>All you have to do is to enter once a day or after a couple of days and click on the REINVEST button.</p><p><br></p><p>This way, you will use compounding and thus, in time, your balance amount will raise.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go Back</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-12"
-        },
-        {
-          "_params": {
-            "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "noGutter": false,
-            "showText": true,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/freemining2-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/freemining2-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://freemining.co/94829\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://mastercoin.top/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
-                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
-                "alt": "",
-                "title": "",
-                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
-                "active": false
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_styles": {
-            "SMALL": {
-              "text-align": "center",
-              "font-size": "24px"
-            },
-            "B": {
-              "font-size": "24px"
-            }
-          },
-          "_anchor": "gallery1-10"
-        },
         {
           "_params": {
             "paddingTop": "3",
@@ -570,7 +842,7 @@
               "color": "#f4eaea"
             }
           },
-          "_anchor": "footer1-t"
+          "_anchor": "footer1-23"
         },
         {
           "_inherit": "menu",
@@ -626,15 +898,50 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-15"
+          "_anchor": "ext_menu-24"
+        },
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": true,
+            "contentAlign": "right",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btc-500x376.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "WOULD YOU LIKE TO KNOW A FREE WAY TO EARN MONEY ONLINE?",
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://grabanything.github.io/passiveincome/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YES<br>I want to know the secret!</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://grabanything.github.io/easymoney/page.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NO<br>I am not interested.<br></a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-25",
+          "_styles": {
+            "H1": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     },
-    "page3.html": {
+    "LeadsLeap.html": {
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "LeadsLeap",
-        "order": 3
+        "order": 7
       },
       "components": [
         {
@@ -2796,10 +3103,202 @@
         }
       ]
     },
-    "page4.html": {
+    "Mining.html": {
       "settings": {
-        "meta_descr": "Site Builder Description",
-        "title": "PassiveIncome",
+        "meta_descr": "Web Page Builder Description",
+        "title": "Mining",
+        "order": 8
+      },
+      "components": [
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#ffffff",
+              "font-size": "46px"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            },
+            ".mbr-article P": {
+              "text-align": "center",
+              "font-size": "24px"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "FREE MINING PLATFORMS<div><br></div>",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>Sign up freely to all the platforms and begin mining. </p><p><br></p><p>The best to mine are LTC and ETH, not BTC, </p><p>because of the lower withdrawal amount.</p><p><br></p><p>All you have to do is to enter hourly (if you can) </p><p>or at least once a day or after a couple of days and </p><p>click on the REINVEST button.</p><p><br></p><p>This way, you will use compounding and thus, </p><p>in time, your balance amount will raise.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Go Back</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-12"
+        },
+        {
+          "_params": {
+            "fullWidth": true,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "noGutter": false,
+            "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/bitland-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"page8.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/cryptoplace-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://cryptoplace.cloud/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mastercoin-1000x700.png",
+                "thumb": "@PROJECT_PATH@/assets/images/mastercoin-1000x700-800x560.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://mastercoin.top/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-10"
+        },
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-t"
+        },
+        {
+          "_inherit": "menu",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": false,
+            "color": "#2c2c2c",
+            "hamburgerColor": "#ffffff"
+          },
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"https://www.leadsleap.com/?r=grabanything\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__section": {
+              "background": "#2c2c2c"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-brand__name a": {
+              "font-size": "16px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/passiveincome/\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page3.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-13-at-6.44.55-pm-180x46.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": ""
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-15"
+        }
+      ]
+    },
+    "page8.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Bitland",
         "order": 2
       },
       "components": [
@@ -2826,7 +3325,7 @@
               "color": "#f4eaea"
             }
           },
-          "_anchor": "footer1-23"
+          "_anchor": "footer1-2i"
         },
         {
           "_inherit": "menu",
@@ -2882,21 +3381,24 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-24"
+          "_anchor": "ext_menu-2j"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showMeta": false,
+            "showText": true,
             "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "right",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btc-500x376.png",
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
             "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#4c6972",
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -2905,26 +3407,53 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "WOULD YOU LIKE TO KNOW A FREE WAY TO EARN MONEY ONLINE?",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-success\" href=\"https://grabanything.github.io/passiveincome/\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">YES<br>I want to know the secret!</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-danger\" href=\"https://grabanything.github.io/easymoney/page.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">NO<br>I am not interested.<br></a>",
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "images/iphone.png"
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "BITLAND PLATFORM",
+          "text": "<p>This is a free mining platform that paid me daily in my Coinbase LTC wallet and they paid me even without any deposit, so you can make money with NO INVESTMENT. All you have to do is to enter daily and take the hourly bonuses.</p><p>The best crypto to mine is LTC because it has the lowest withdrawal amount of 0.03317202 LTC meaning around $1.</p><p>I already told you on my first page everything about Coinbase. Just click on the <a href=\"index.html\" target=\"_blank\"><b>ABOUT</b></a> link from the menu and freely register to all those platforms.</p><p>Now, let me show you some of my <a href=\"BitlandProofs.html\" target=\"_blank\"><b>PAYMENT PROOFS</b></a>.</p><p>You will have to pay a fixed withdrawal fee of 0.006 LTC (around $0.25) so it is wiser to withdraw not so often.</p><p><br></p>",
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-25",
           "_styles": {
-            "H1": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
               "color": "#ffffff"
             }
-          }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://bitland.pro/?ref=yoursoftdeveloper\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE!</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2k"
         }
       ]
     },
-    "page5.html": {
+    "BitlandProofs.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "Banner",
+        "meta_descr": "Web Creator Description",
+        "title": "Bitland Proofs",
         "order": 1
       },
       "components": [
@@ -2951,7 +3480,7 @@
               "color": "#f4eaea"
             }
           },
-          "_anchor": "footer1-26"
+          "_anchor": "footer1-2l"
         },
         {
           "_inherit": "menu",
@@ -3007,19 +3536,82 @@
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"page3.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">LEADSLEAP BestPlatform</a>",
           "_name": "ext.menu",
-          "_anchor": "ext_menu-27"
+          "_anchor": "ext_menu-2m"
         },
         {
           "_params": {
+            "fullWidth": true,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "noGutter": false,
             "showText": true,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.26.54-am-441x422.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.26.54-am-441x422-441x422.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.26.54-am-441x422.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.26.54-am-441x422-441x422.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://bitland.pro/?ref=yoursoftdeveloper\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.27.19-am-444x424.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.27.19-am-444x424-444x424.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.27.38-am-453x422.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.27.38-am-453x422-453x422.png",
+                "alt": "",
+                "title": "",
+                "caption": "<b><a href=\"https://mininglabs.io/start/210283\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            "SMALL": {
+              "text-align": "center",
+              "font-size": "24px"
+            },
+            "B": {
+              "font-size": "24px"
+            }
+          },
+          "_anchor": "gallery1-2n"
+        },
+        {
+          "_params": {
+            "showText": false,
             "outside": false
           },
           "media": {
             "image": {
               "active": true,
-              "src": "images/slide3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-06-29-at-11.31.20-am-1112x453.png",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
             },
             "video": {
               "class": "mbr-figure__img",
@@ -3031,7 +3623,7 @@
             "Theme"
           ],
           "_name": "image2",
-          "_anchor": "image2-28"
+          "_anchor": "image2-2o"
         }
       ]
     }
