@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "Mining.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -3396,7 +3396,11 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/bitlandbanner.gif",
+              "link": "https://bitland.pro/?ref=yoursoftdeveloper",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
