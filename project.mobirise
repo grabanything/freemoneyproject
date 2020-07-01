@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "Bitland.html",
+    "currentPage": "Mining.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -3175,7 +3175,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/bitland-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
-                "caption": "<b><a href=\"page8.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "caption": "<b><a href=\"Mining.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": true
               }
             ]
