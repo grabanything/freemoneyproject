@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "LeadsLeap.html",
+    "currentPage": "PayToClick.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -729,7 +729,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/leadsleap-1000x700-800x560.png",
                 "alt": "",
                 "title": "",
-                "caption": "<b><a href=\"page3.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
+                "caption": "<b><a href=\"LeadsLeap.html\" target=\"_blank\" class=\"text-gray\">CLICK HERE!</a></b>",
                 "active": false
               },
               {
