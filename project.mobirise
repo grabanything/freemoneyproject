@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "Mining.html",
+    "currentPage": "LeadsLeap.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -1019,8 +1019,8 @@
               "size": 0
             }
           },
-          "title": "One Signup A Day<br><br>I please you to download it freely and read it.",
-          "text": "<p><a href=\"https://www.leadsleap.com/1signupaday/?r=grabany\" target=\"_blank\">https://www.leadsleap.com/1signupaday/?r=grabany</a></p>",
+          "title": "One Signup A Day<br><br>I please you to download it freely and read it.<br><br>",
+          "text": "<b><a href=\"https://www.leadsleap.com/1signupaday/?r=grabanything\" target=\"_blank\">ONE SIGN UP A DAY DOWNLOAD</a></b>",
           "_tags": [
             "Theme"
           ],
@@ -1033,6 +1033,9 @@
             },
             ".mbr-article": {
               "color": "#7c706b"
+            },
+            ".mbr-article B": {
+              "font-size": "36px"
             }
           },
           "headerAlign": "left",
