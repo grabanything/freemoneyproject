@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "page10.html",
+    "currentPage": "Easy5Now.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -3627,7 +3627,7 @@
         }
       ]
     },
-    "page10.html": {
+    "Easy5Now.html": {
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Easy5Now",
