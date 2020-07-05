@@ -564,3 +564,23 @@
 #msg-box4-2k .mbr-article {
   color: #ffffff;
 }
+
+#footer1-2p P {
+  color: #f4eaea;
+}
+#ext_menu-2q .mbr-brand__name {
+  font-size: 16px;
+}
+#ext_menu-2q.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-2q .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-2q .mbr-navbar__hamburger {
+  color: #ffffff;
+}
+#ext_menu-2q .mbr-brand__name a {
+  font-size: 16px;
+  font-family: 'Open Sans', sans-serif;
+}
