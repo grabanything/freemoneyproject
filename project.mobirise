@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "index.html",
+    "currentPage": "page11.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -17,7 +17,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.11.6",
     "siteFonts": [],
-    "uniqCompNum": 100,
+    "uniqCompNum": 102,
     "versionPublish": "4.11.6",
     "screenshot": "screenshot.png"
   },
@@ -126,7 +126,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "Banner",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -184,7 +184,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "SerfBux Proofs",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -301,7 +301,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "Serfbux",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -400,7 +400,7 @@
       "settings": {
         "meta_descr": "Web Site Generator Description",
         "title": "PayToClick",
-        "order": 10
+        "order": 11
       },
       "components": [
         {
@@ -536,7 +536,7 @@
       "settings": {
         "meta_descr": "Site Builder Description",
         "title": "PassiveIncome",
-        "order": 7
+        "order": 8
       },
       "components": [
         {
@@ -605,7 +605,7 @@
       "settings": {
         "meta_descr": "Web Generator Description",
         "title": "LeadsLeap",
-        "order": 8
+        "order": 9
       },
       "components": [
         {
@@ -2718,7 +2718,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Mining",
-        "order": 9
+        "order": 10
       },
       "components": [
         {
@@ -2846,7 +2846,7 @@
       "settings": {
         "meta_descr": "Web Creator Description",
         "title": "Bitland Proofs",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2967,7 +2967,7 @@
       "settings": {
         "meta_descr": "Web Page Builder Description",
         "title": "Bitland",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -3070,7 +3070,7 @@
       "settings": {
         "meta_descr": "Website Generator Description",
         "title": "Easy5Now",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -3125,6 +3125,110 @@
           ],
           "_name": "image2",
           "_anchor": "image2-2r"
+        }
+      ]
+    },
+    "page11.html": {
+      "settings": {
+        "meta_descr": "Web Page Builder Description",
+        "title": "Fungus",
+        "order": 1
+      },
+      "components": [
+        {
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#444444",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text": "Copyright (c) 2020 Tiberiu Grabany&nbsp;<a class=\"mbr-footer__link text-gray\" href=\"mailto:yoursoftdeveloper@gmail.com\">Email</a>  | <a class=\"mbr-footer__link text-gray\" href=\"https://grabanything.github.io/passiveincome/PrivacyNotice.html\" target=\"_blank\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#f4eaea"
+            }
+          },
+          "_anchor": "footer1-2s"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": true,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "60",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#f97352",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fungus-640x400.png",
+              "link": "https://x-fungus.com/ref?id=zm07h",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "FUNGUS PLATFORM<br><br>",
+          "text": "<p>&nbsp;Minimum deposit is only 0.05$ - see the left side image<br></p><p>&nbsp;Every hour interest accruals and capitalization (0.10% per hour = 2.43% daily)</p><p>&nbsp;Fully automatic and unlimited withdrawals by request at any time</p><p>&nbsp;Affiliate program 25% from partner's earnings</p><p>&nbsp;Free instant internal transfers</p><p>&nbsp;The ability to exchange electronic money</p><p>It is not a scam. Read the reviews about this new platform <b><i>HERE</i></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff",
+              "font-size": "20px"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "What we are proposing for investors:",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://x-fungus.com/ref?id=zm07h\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER HERE!</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2t"
         }
       ]
     }

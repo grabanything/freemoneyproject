@@ -396,3 +396,16 @@
 #footer1-2p P {
   color: #f4eaea;
 }
+#footer1-2s P {
+  color: #f4eaea;
+}
+#msg-box4-2t .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2t .mbr-header__subtext {
+  color: #ffffff;
+  font-size: 20px;
+}
+#msg-box4-2t .mbr-article {
+  color: #ffffff;
+}
