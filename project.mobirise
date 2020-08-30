@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "FreeMoney",
-    "currentPage": "Mining.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -119,63 +119,6 @@
               "color": "#f4eaea"
             }
           }
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-15"
         }
       ]
     },
@@ -210,63 +153,6 @@
             }
           },
           "_anchor": "footer1-26"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-27"
         },
         {
           "_params": {
@@ -325,63 +211,6 @@
             }
           },
           "_anchor": "footer1-2f"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2g"
         },
         {
           "_params": {
@@ -499,63 +328,6 @@
             }
           },
           "_anchor": "footer1-29"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2a"
         },
         {
           "_inherit": "msg-box5",
@@ -757,63 +529,6 @@
             }
           },
           "_anchor": "gallery1-u"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-15"
         }
       ]
     },
@@ -848,63 +563,6 @@
             }
           },
           "_anchor": "footer1-23"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-24"
         },
         {
           "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
@@ -1068,63 +726,6 @@
             }
           },
           "_anchor": "footer1-16"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-17"
         },
         {
           "_inherit": "msg-box5",
@@ -3238,63 +2839,6 @@
             }
           },
           "_anchor": "footer1-t"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-15"
         }
       ]
     },
@@ -3329,63 +2873,6 @@
             }
           },
           "_anchor": "footer1-2l"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2m"
         },
         {
           "_params": {
@@ -3509,63 +2996,6 @@
           "_anchor": "footer1-2i"
         },
         {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2j"
-        },
-        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -3667,63 +3097,6 @@
             }
           },
           "_anchor": "footer1-2p"
-        },
-        {
-          "_inherit": "menu",
-          "_params": {
-            "logo": true,
-            "showBrand": true,
-            "showButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": false,
-            "color": "#2c2c2c",
-            "hamburgerColor": "#ffffff"
-          },
-          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-danger\" data-app-selector=\".mbr-navbar__items a\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">REGISTER FREELY</a></li>",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-brand__name": {
-              "font-size": "16px"
-            },
-            "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__section": {
-              "background": "#2c2c2c"
-            },
-            ".mbr-navbar__hamburger": {
-              "color": "#ffffff"
-            },
-            ".mbr-brand__name a": {
-              "font-size": "16px",
-              "font-family": "'Open Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
-            }
-          },
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://grabanything.github.io/freemoneyproject/index.html\" target=\"_blank\">HOME</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"page10.html\" target=\"_blank\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"mailto:yoursoftdeveloper@gmail.com\">CONTACT</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/easy5now-179x128.png",
-              "class": "mbr-navbar__brand-img mbr-brand__img",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "Easy5Now.html",
-              "title": "",
-              "linkInNewWindow": true
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://easy5now.com/r/grabanything/instantcas.html\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">EASY5NOW</a>",
-          "_name": "ext.menu",
-          "_anchor": "ext_menu-2q"
         },
         {
           "_params": {
